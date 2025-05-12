@@ -1,0 +1,10 @@
+.lista{
+    list-style-type: circle;
+    padding-left: 20px;
+    margin-bottom: 15px;
+}
+
+.lista li{
+    font-size: 1rem;
+    color: #333;
+}
