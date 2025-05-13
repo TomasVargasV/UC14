@@ -1,10 +1,10 @@
 import React from "react";
 import "./Paragrafo.css"
 
-const Paragrafo = () => {
+const Paragrafo = ({texto}) => {
     return (
         <p className="paragrafo">
-            Este é um componente de parágrafo
+            {texto}
         </p>
     )
 }

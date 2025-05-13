@@ -1,3 +1,3 @@
-export const tarefas = ['estudar', 'trabalhar', 'treinar']
+const tarefas = ['estudar', 'trabalhar', 'treinar']
 
-// export default tarefas
+export default tarefas
