@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "titulo": "The Way of Kings",
+        "ano": "2010",
+        "genero": "Fantasia Épica"
+    },
+    {
+        "id": "2",
+        "titulo": "Senhor dos Anéis",
+        "ano": "1954",
+        "genero": "Fantasia Épica"
+    },
+    {
+        "id": "3",
+        "titulo": "O Nome do Vento",
+        "ano": "2007",
+        "genero": "Fantasia"
+    },
+    {
+        "id": "4",
+        "titulo": "Mistborn",
+        "ano": "2006",
+        "genero": "Fantasia Épica"
+    }
+]
